@@ -1,0 +1,1 @@
+void work(int id,int **A,int **B,int **C,int n,int nbr_prosses);

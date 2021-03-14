@@ -1,0 +1,1 @@
+void generateRandomMatrix (int **matrix, int dim);
